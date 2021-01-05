@@ -1,2 +1,2 @@
 # davidjeong0628.github.io
-My website.
+David Jeong's User Page
