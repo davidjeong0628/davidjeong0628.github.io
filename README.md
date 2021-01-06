@@ -1,7 +1,7 @@
 # David Jeong's User Page
 
 ## Table of Contents
-- [About Me](https://davidjeong0628.github.io/#about-me)
+- [About Me](https://github.com/davidjeong0628/davidjeong0628.github.io/blob/master/README.md#about-me)
 - [Fun Facts](https://davidjeong0628.github.io/#fun-facts)
 
 ## About Me
