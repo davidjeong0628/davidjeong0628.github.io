@@ -20,5 +20,5 @@ I am a junior-standing undergraduate, pursuing a BS in Computer Science at [UCSD
 > "I can't stand it to think my life is going so fast and I'm not really living it."
 
 ## Goals
-- [] Travel around the world.
-- [] Become fluent in Spanish.
+- [ ] Travel around the world.
+- [ ] Become fluent in Spanish.
