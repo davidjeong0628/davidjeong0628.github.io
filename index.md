@@ -3,6 +3,7 @@
 ## Table of Contents
 - [About Me](https://davidjeong0628.github.io/#about-me)
 - [Fun Facts](https://davidjeong0628.github.io/#fun-facts)
+- [Goals](https://davidjeong0628.github.io/#goals)
 
 ## About Me
 `System.out.println("Hello World!)`
